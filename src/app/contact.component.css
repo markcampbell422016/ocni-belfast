@@ -1,0 +1,33 @@
+.hero-section {
+    background-image: url('/assets/frtoma.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    color: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+}
+
+.social-icons {
+    display: flex;
+    gap: 20px; 
+    justify-content: center; 
+    margin-top: 20px; 
+    font-size: 40px;
+    color: #ffffff; 
+}
+
+.social-icons a img, 
+.social-icons i {
+    width: 40px; 
+    height: 40px; 
+    transition: transform 0.3s ease-in-out;
+}
+
+.social-icons a img:hover, 
+.social-icons i:hover {
+    transform: scale(1.2); 
+}
