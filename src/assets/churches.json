@@ -1,0 +1,659 @@
+[
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1d96"
+        },
+        "name": "Church 14",
+        "town": "Derry",
+        "rating": 5,
+        "reviews": [
+            {
+                "username": "homer",
+                "comment": "donuts",
+                "stars": 4
+            }
+        ],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                55.028995459262646,
+                -7.310145007876633
+            ]
+        },
+        "clergy": 14,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 89
+            },
+            {
+                "year": "2023",
+                "conversions": 71
+            },
+            {
+                "year": "2024",
+                "conversions": 13
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1d97"
+        },
+        "name": "Church 12",
+        "town": "Ballymoney",
+        "rating": 4,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                55.07472960736127,
+                -6.520842593694661
+            ]
+        },
+        "clergy": 10,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 48
+            },
+            {
+                "year": "2023",
+                "conversions": 25
+            },
+            {
+                "year": "2024",
+                "conversions": 25
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1d98"
+        },
+        "name": "Church 11",
+        "town": "Lisburn",
+        "rating": 5,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.51824574780204,
+                -6.084627574797665
+            ]
+        },
+        "clergy": 37,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 9
+            },
+            {
+                "year": "2023",
+                "conversions": 65
+            },
+            {
+                "year": "2024",
+                "conversions": 65
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1d99"
+        },
+        "name": "Church 19",
+        "town": "Belfast",
+        "rating": 4,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.5826110851167,
+                -5.998520663364854
+            ]
+        },
+        "clergy": 4,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 41
+            },
+            {
+                "year": "2023",
+                "conversions": 78
+            },
+            {
+                "year": "2024",
+                "conversions": 61
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1d9a"
+        },
+        "name": "Church 20",
+        "town": "Enniskillen",
+        "rating": 1,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.361360067639225,
+                -7.62540355818017
+            ]
+        },
+        "clergy": 30,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 16
+            },
+            {
+                "year": "2023",
+                "conversions": 87
+            },
+            {
+                "year": "2024",
+                "conversions": 2
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1d9b"
+        },
+        "name": "Church 17",
+        "town": "Enniskillen",
+        "rating": 4,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.35625618025319,
+                -7.661371616650152
+            ]
+        },
+        "clergy": 84,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 76
+            },
+            {
+                "year": "2023",
+                "conversions": 82
+            },
+            {
+                "year": "2024",
+                "conversions": 19
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1d9c"
+        },
+        "name": "Church 22",
+        "town": "Banbridge",
+        "rating": 3,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.33134610572793,
+                -6.289842678704163
+            ]
+        },
+        "clergy": 84,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 42
+            },
+            {
+                "year": "2023",
+                "conversions": 29
+            },
+            {
+                "year": "2024",
+                "conversions": 31
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1d9d"
+        },
+        "name": "Church 6",
+        "town": "Omagh",
+        "rating": 1,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.615939524994,
+                -7.3242356682585585
+            ]
+        },
+        "clergy": 45,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 25
+            },
+            {
+                "year": "2023",
+                "conversions": 56
+            },
+            {
+                "year": "2024",
+                "conversions": 34
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1d9e"
+        },
+        "name": "Church 24",
+        "town": "Enniskillen",
+        "rating": 3,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.343921785736946,
+                -7.667827422016559
+            ]
+        },
+        "clergy": 87,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 83
+            },
+            {
+                "year": "2023",
+                "conversions": 11
+            },
+            {
+                "year": "2024",
+                "conversions": 48
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1d9f"
+        },
+        "name": "Church 7",
+        "town": "Newry",
+        "rating": 2,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.1712656032492,
+                -6.309868490189179
+            ]
+        },
+        "clergy": 53,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 40
+            },
+            {
+                "year": "2023",
+                "conversions": 36
+            },
+            {
+                "year": "2024",
+                "conversions": 100
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1da0"
+        },
+        "name": "Church 25",
+        "town": "Lisburn",
+        "rating": 5,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.53175298019485,
+                -6.0816942750904674
+            ]
+        },
+        "clergy": 93,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 95
+            },
+            {
+                "year": "2023",
+                "conversions": 48
+            },
+            {
+                "year": "2024",
+                "conversions": 51
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1da1"
+        },
+        "name": "Church 28",
+        "town": "Ballymena",
+        "rating": 3,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.85389189544707,
+                -6.299637211145483
+            ]
+        },
+        "clergy": 55,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 42
+            },
+            {
+                "year": "2023",
+                "conversions": 6
+            },
+            {
+                "year": "2024",
+                "conversions": 45
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1da2"
+        },
+        "name": "Church 23",
+        "town": "Coleraine",
+        "rating": 4,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                55.120654692521946,
+                -6.662471264560487
+            ]
+        },
+        "clergy": 43,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 97
+            },
+            {
+                "year": "2023",
+                "conversions": 28
+            },
+            {
+                "year": "2024",
+                "conversions": 21
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1da3"
+        },
+        "name": "Church 26",
+        "town": "Armagh",
+        "rating": 4,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.350277,
+                -6.652783
+            ]
+        },
+        "clergy": 60,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 43
+            },
+            {
+                "year": "2023",
+                "conversions": 63
+            },
+            {
+                "year": "2024",
+                "conversions": 18
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1da4"
+        },
+        "name": "Church 13",
+        "town": "Enniskillen",
+        "rating": 5,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.33924322229974,
+                -7.6604493587406655
+            ]
+        },
+        "clergy": 28,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 10
+            },
+            {
+                "year": "2023",
+                "conversions": 40
+            },
+            {
+                "year": "2024",
+                "conversions": 64
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1da5"
+        },
+        "name": "Church 8",
+        "town": "Newry",
+        "rating": 2,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.17760053495246,
+                -6.380223593570023
+            ]
+        },
+        "clergy": 50,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 50
+            },
+            {
+                "year": "2023",
+                "conversions": 74
+            },
+            {
+                "year": "2024",
+                "conversions": 19
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1da6"
+        },
+        "name": "Church 15",
+        "town": "Belfast",
+        "rating": 2,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.59281523849442,
+                -5.856888438075686
+            ]
+        },
+        "clergy": 92,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 13
+            },
+            {
+                "year": "2023",
+                "conversions": 23
+            },
+            {
+                "year": "2024",
+                "conversions": 76
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1da7"
+        },
+        "name": "Church 5",
+        "town": "Banbridge",
+        "rating": 4,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.363388905272316,
+                -6.272253097351339
+            ]
+        },
+        "clergy": 64,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 85
+            },
+            {
+                "year": "2023",
+                "conversions": 58
+            },
+            {
+                "year": "2024",
+                "conversions": 29
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1da8"
+        },
+        "name": "Church 18",
+        "town": "Omagh",
+        "rating": 5,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.58554953762801,
+                -7.3233691512117325
+            ]
+        },
+        "clergy": 89,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 44
+            },
+            {
+                "year": "2023",
+                "conversions": 87
+            },
+            {
+                "year": "2024",
+                "conversions": 39
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1da9"
+        },
+        "name": "Church 16",
+        "town": "Omagh",
+        "rating": 3,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.59253574162019,
+                -7.269645094308555
+            ]
+        },
+        "clergy": 40,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 91
+            },
+            {
+                "year": "2023",
+                "conversions": 96
+            },
+            {
+                "year": "2024",
+                "conversions": 29
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "670685c72604c45ada6d1daa"
+        },
+        "name": "Church 21",
+        "town": "Lisburn",
+        "rating": 5,
+        "reviews": [],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                54.510647929581076,
+                -6.048450211742229
+            ]
+        },
+        "clergy": 77,
+        "laity": [
+            {
+                "year": "2022",
+                "conversions": 67
+            },
+            {
+                "year": "2023",
+                "conversions": 28
+            },
+            {
+                "year": "2024",
+                "conversions": 29
+            }
+        ]
+    }
+]

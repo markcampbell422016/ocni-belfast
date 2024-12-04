@@ -1,0 +1,12 @@
+.hero-section {
+    background-image: url('/assets/pantocrator-parish.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 175vh; 
+    color: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+}

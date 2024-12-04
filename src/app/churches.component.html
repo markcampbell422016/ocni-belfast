@@ -1,0 +1,34 @@
+<div class="container church-container" style="margin-top: 70px;">
+    <div class="row">
+        <div class="col-sm-12">
+            @for (church of church_list; track church.name) {
+                <div class="card text-white bg-primary mb-3"
+                     style="cursor: pointer"
+                     [routerLink]="['/churches', church._id]">
+                    <div class="card-header">
+                        {{ church.name }}
+                    </div>
+                    <div class="card-body">
+                        This church is based in {{ church.town }}
+                    </div>
+                    <div class="card-footer">
+                        Rating: {{ church.rating }}
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+  
+    <div class="row align-items-center">
+        <div class="col text-start">
+            <button class="btn btn-primary" (click)="previousPage()">Previous</button>
+        </div>
+        <div class="col text-center">
+            Showing page {{ this.page }} of {{ this.dataService.getLastPageNumber() }}
+        </div>
+        <div class="col text-end">
+            <button class="btn btn-primary" (click)="nextPage()">Next</button>
+        </div>
+    </div>
+  </div>
+  

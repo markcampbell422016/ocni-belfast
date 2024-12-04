@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "bizFE": {
+    "churchFE": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/biz-fe",
+            "outputPath": "dist/church-fe",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -24,10 +24,13 @@
               {
                 "glob": "**/*",
                 "input": "public"
-              }
+              },
+            "src/assets",
+            "src/favicon.ico"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [],
             "server": "src/main.server.ts",
@@ -64,10 +67,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "bizFE:build:production"
+              "buildTarget": "churchFE:build:production"
             },
             "development": {
-              "buildTarget": "bizFE:build:development"
+              "buildTarget": "churchFE:build:development"
             }
           },
           "defaultConfiguration": "development"

@@ -1,0 +1,73 @@
+.hero-section {
+    background-image: url('/assets/resized_image_2.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 150vh; 
+    color: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+}
+
+.example-accordion {
+    display: block;
+    
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .example-accordion-item {
+    display: block;
+    border: solid 1px #ccc;
+    margin-bottom: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .example-accordion-item + .example-accordion-item {
+    border-top: none;
+  }
+  
+  .example-accordion-item-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background: none;
+    border: none;
+    padding: 16px;
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: left;
+    color: #333;
+  }
+  
+  .example-accordion-item-header:hover {
+    cursor: pointer;
+    background-color: #ddd;
+  }
+  
+  .example-accordion-item-description {
+    font-size: 0.85em;
+    color: #666;
+  }
+  
+  .example-accordion-item-body {
+    padding: 16px;
+    background-color: white;
+    border-top: solid 1px #ccc;
+    color: #333;
+    line-height: 1.5em;
+  }
+  
+  .example-accordion-item:first-child {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+  }
+  
+  .example-accordion-item:last-child {
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+  }
+  

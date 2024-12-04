@@ -1,0 +1,12 @@
+.hero-section {
+    background-image: url('/assets/resized_image_3.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 150vh; 
+    color: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0; 
+}

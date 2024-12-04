@@ -1,0 +1,659 @@
+[
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1d96"
+    },
+    "name": "church 12",
+    "town": "Ballymoney",
+    "rating": 4,
+    "reviews": [
+      {
+        "username": "homer",
+        "comment": "donuts",
+        "stars": 4
+      }
+    ],
+    "num_employees": 10,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": -343761
+      },
+      {
+        "year": "2023",
+        "gross": -304304
+      },
+      {
+        "year": "2024",
+        "gross": 480713
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        55.07472960736127,
+        -6.520842593694661
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1d97"
+    },
+    "name": "church 13",
+    "town": "Enniskillen",
+    "rating": 5,
+    "reviews": [],
+    "num_employees": 28,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": -113667
+      },
+      {
+        "year": "2023",
+        "gross": -385167
+      },
+      {
+        "year": "2024",
+        "gross": -454009
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.33924322229974,
+        -7.6604493587406655
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1d98"
+    },
+    "name": "church 11",
+    "town": "Lisburn",
+    "rating": 5,
+    "reviews": [],
+    "num_employees": 37,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 392837
+      },
+      {
+        "year": "2023",
+        "gross": -239809
+      },
+      {
+        "year": "2024",
+        "gross": -15207
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.51824574780204,
+        -6.084627574797665
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1d99"
+    },
+    "name": "church 14",
+    "town": "Derry",
+    "rating": 5,
+    "reviews": [],
+    "num_employees": 14,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": -38215
+      },
+      {
+        "year": "2023",
+        "gross": 489297
+      },
+      {
+        "year": "2024",
+        "gross": 108359
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        55.028995459262646,
+        -7.310145007876633
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1d9a"
+    },
+    "name": "church 16",
+    "town": "Omagh",
+    "rating": 3,
+    "reviews": [],
+    "num_employees": 40,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": -373569
+      },
+      {
+        "year": "2023",
+        "gross": 290195
+      },
+      {
+        "year": "2024",
+        "gross": 407313
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.59253574162019,
+        -7.269645094308555
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1d9b"
+    },
+    "name": "church 15",
+    "town": "Belfast",
+    "rating": 2,
+    "reviews": [],
+    "num_employees": 92,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": -177081
+      },
+      {
+        "year": "2023",
+        "gross": -414345
+      },
+      {
+        "year": "2024",
+        "gross": 16531
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.59281523849442,
+        -5.856888438075686
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1d9c"
+    },
+    "name": "church 17",
+    "town": "Enniskillen",
+    "rating": 4,
+    "reviews": [],
+    "num_employees": 84,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 443163
+      },
+      {
+        "year": "2023",
+        "gross": 193867
+      },
+      {
+        "year": "2024",
+        "gross": -415450
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.35625618025319,
+        -7.661371616650152
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1d9d"
+    },
+    "name": "church 8",
+    "town": "Newry",
+    "rating": 2,
+    "reviews": [],
+    "num_employees": 50,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 173173
+      },
+      {
+        "year": "2023",
+        "gross": -443981
+      },
+      {
+        "year": "2024",
+        "gross": -478748
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.17760053495246,
+        -6.380223593570023
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1d9e"
+    },
+    "name": "church 18",
+    "town": "Omagh",
+    "rating": 5,
+    "reviews": [],
+    "num_employees": 89,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 442470
+      },
+      {
+        "year": "2023",
+        "gross": 69658
+      },
+      {
+        "year": "2024",
+        "gross": 2773
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.58554953762801,
+        -7.3233691512117325
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1d9f"
+    },
+    "name": "church 19",
+    "town": "Belfast",
+    "rating": 4,
+    "reviews": [],
+    "num_employees": 4,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": -361858
+      },
+      {
+        "year": "2023",
+        "gross": 469619
+      },
+      {
+        "year": "2024",
+        "gross": 121081
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.5826110851167,
+        -5.998520663364854
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1da0"
+    },
+    "name": "church 5",
+    "town": "Banbridge",
+    "rating": 4,
+    "reviews": [],
+    "num_employees": 64,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 474691
+      },
+      {
+        "year": "2023",
+        "gross": 231461
+      },
+      {
+        "year": "2024",
+        "gross": -418858
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.363388905272316,
+        -6.272253097351339
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1da1"
+    },
+    "name": "church 21",
+    "town": "Lisburn",
+    "rating": 5,
+    "reviews": [],
+    "num_employees": 77,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 156052
+      },
+      {
+        "year": "2023",
+        "gross": -390186
+      },
+      {
+        "year": "2024",
+        "gross": 216848
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.510647929581076,
+        -6.048450211742229
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1da2"
+    },
+    "name": "church 20",
+    "town": "Enniskillen",
+    "rating": 1,
+    "reviews": [],
+    "num_employees": 30,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 296120
+      },
+      {
+        "year": "2023",
+        "gross": -32275
+      },
+      {
+        "year": "2024",
+        "gross": -133579
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.361360067639225,
+        -7.62540355818017
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1da3"
+    },
+    "name": "church 22",
+    "town": "Banbridge",
+    "rating": 3,
+    "reviews": [],
+    "num_employees": 84,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": -283243
+      },
+      {
+        "year": "2023",
+        "gross": -476267
+      },
+      {
+        "year": "2024",
+        "gross": 314677
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.33134610572793,
+        -6.289842678704163
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1da4"
+    },
+    "name": "church 24",
+    "town": "Enniskillen",
+    "rating": 3,
+    "reviews": [],
+    "num_employees": 87,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 294275
+      },
+      {
+        "year": "2023",
+        "gross": 330224
+      },
+      {
+        "year": "2024",
+        "gross": 292452
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.343921785736946,
+        -7.667827422016559
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1da5"
+    },
+    "name": "church 23",
+    "town": "Coleraine",
+    "rating": 4,
+    "reviews": [],
+    "num_employees": 43,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": -313667
+      },
+      {
+        "year": "2023",
+        "gross": 389639
+      },
+      {
+        "year": "2024",
+        "gross": 127949
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        55.120654692521946,
+        -6.662471264560487
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1da6"
+    },
+    "name": "church 6",
+    "town": "Omagh",
+    "rating": 1,
+    "reviews": [],
+    "num_employees": 45,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 190936
+      },
+      {
+        "year": "2023",
+        "gross": 222914
+      },
+      {
+        "year": "2024",
+        "gross": -241787
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.615939524994,
+        -7.3242356682585585
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1da7"
+    },
+    "name": "church 25",
+    "town": "Lisburn",
+    "rating": 5,
+    "reviews": [],
+    "num_employees": 93,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 378566
+      },
+      {
+        "year": "2023",
+        "gross": 110552
+      },
+      {
+        "year": "2024",
+        "gross": 76835
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.53175298019485,
+        -6.0816942750904674
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1da8"
+    },
+    "name": "church 7",
+    "town": "Newry",
+    "rating": 2,
+    "reviews": [],
+    "num_employees": 53,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 211558
+      },
+      {
+        "year": "2023",
+        "gross": 444844
+      },
+      {
+        "year": "2024",
+        "gross": 43954
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.1712656032492,
+        -6.309868490189179
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1da9"
+    },
+    "name": "church 28",
+    "town": "Ballymena",
+    "rating": 3,
+    "reviews": [],
+    "num_employees": 55,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": -65793
+      },
+      {
+        "year": "2023",
+        "gross": -72606
+      },
+      {
+        "year": "2024",
+        "gross": 34569
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.85389189544707,
+        -6.299637211145483
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "670685c72604c45ada6d1daa"
+    },
+    "name": "church 26",
+    "town": "Armagh",
+    "rating": 4,
+    "reviews": [],
+    "num_employees": 60,
+    "profit": [
+      {
+        "year": "2022",
+        "gross": 198767
+      },
+      {
+        "year": "2023",
+        "gross": -93763
+      },
+      {
+        "year": "2024",
+        "gross": 300300
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        54.350277,
+        -6.652783
+      ]
+    }
+  }
+]
