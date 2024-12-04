@@ -13,21 +13,18 @@
 
 .social-icons {
     display: flex;
-    gap: 20px; 
-    justify-content: center; 
-    margin-top: 20px; 
-    font-size: 40px;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 40px; 
+}
+
+.social-icons a {
     color: #ffffff; 
+    text-decoration: none; 
+    transition: color 0.3s ease-in-out;
 }
 
-.social-icons a img, 
-.social-icons i {
-    width: 40px; 
-    height: 40px; 
-    transition: transform 0.3s ease-in-out;
-}
-
-.social-icons a img:hover, 
-.social-icons i:hover {
-    transform: scale(1.2); 
+.social-icons a:hover {
+    color: #ffcc00; 
 }
